@@ -1,0 +1,10 @@
+mpt:3.1.8:all
+mptdoc:3.0.4:all
+cddmex:1.0.1:pcwin64
+fourier:1.0:pcwin64
+glpkmex:1.0:pcwin64
+hysdel:2.0.6:pcwin64
+lcp:1.0.3:pcwin64
+yalmip:R20160930:all
+sedumi:1.3:pcwin64
+espresso:1.0:pcwin64
