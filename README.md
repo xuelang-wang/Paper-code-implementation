@@ -21,3 +21,4 @@
 
 [7] B. Chen, et. al. Networked Fusion Estimation With Bounded Noises. IEEE TRANSACTION ON AUTOMATIC CONTROL, 62(10), 5415-5420, 2017\[[paper](./Fusion%20estimation/Networked%20Fusion%20Estimation%20With%20Bounded%20Noises.pdf)\]\[[code](./Fusion%20estimation/DFE.m)\]
 
+[8] X. Liu, A. Goldsmith. Kalman Filtering with Partial Observation Losses. 43rd IEEE Conference on Decision and Control, December 14-17, 2004.\[[paper](./Kalman/Kalman%Filtering%with%Partial%Observation%Losses.pdf)\]\[[code](./Kalman/Partial.m)\]
