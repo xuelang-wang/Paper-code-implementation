@@ -6,6 +6,8 @@
 
 **Notice: toolbox_users 包含必备的工具箱**
 
+**另附外国论文下载神器**`sci-hub`[访问地址更新请转]（http://tool.yovisun.com/scihub/）
+
 ## 目前复现的论文
 [1] B. Sinopoli, et. al. Kalman Filtering with Intermittent Observations, Proc. IEEE Conf. on Decision and Control, pp. 701-708, Dec. 2003.\[[paper](./Kalman%20Filtering/Kalman_filtering_with_intermittent_observations.pdf)\]\[[code](./Kalman%20Filtering/intermittent_A.m)\]
 
@@ -22,3 +24,7 @@
 [7] B. Chen, et. al. Networked Fusion Estimation With Bounded Noises. IEEE TRANSACTION ON AUTOMATIC CONTROL, 62(10), 5415-5420, 2017\[[paper](./Fusion%20estimation/Networked%20Fusion%20Estimation%20With%20Bounded%20Noises.pdf)\]\[[code](./Fusion%20estimation/DFE.m)\]
 
 [8] X. Liu, A. Goldsmith. Kalman Filtering with Partial Observation Losses. 43rd IEEE Conference on Decision and Control, December 14-17, 2004.\[[paper](./Kalman%20Filtering/Kalman%20Filtering%20with%20Partial%20Observation%20Losses.pdf)\]\[[code](./Kalman%20Filtering/Partial.m)\]
+
+[9]D. Q. Mayne, M. N. Seron, S.V. Raković. Robust model predictive control of constrained linear systems with bounded disturbances[J]. Automatica, 2005, 41(2):219-224.\[[paper](Mode%20Predictive%20Control(MPC)\Robust%20model%20predictive%20control%20of%20constrained%20linear%20systems%20with%20bounded%20disturbances.pdf)\]\[[code](Mode%20Predictive%20Control(MPC)\RMPC_01.m)\]
+
+[10] D. Q. Mayne, S.V. Raković, R. Findeisen, et al. Robust output feedback model predictive control of constrained linear systems[J]. Automatica, 2006, 42(7):1217-1222.\[[paper](Mode%20Predictive%20Control(MPC)\Robust%20output%20feedback%20model%20predictive%20control%20of%20constrained%20linear%20systems.pdf)\]\[[code](Mode%20Predictive%20Control(MPC)\RMPC_02.m)\]
