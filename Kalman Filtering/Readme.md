@@ -4,5 +4,5 @@
 
  [AKCF.m](./AKCF.m) 和[AKCF_LN.m](./AKCF_LN.m) 复现 [Agent based Optimally Weighted Kalman Consensus Filter over a Lossy Network.pdf](./Agent_based_Optimally_Weighted_Kalman_Consensus_Filter_over_a_Lossy_Network.pdf)
 
- [Partial.m](./Partial.m)复现论文[Kalman Filtering with Partial Observation Losses.pdf](./Kalman%Filtering%with%Partial%Observation%Losses.pdf)
+ [Partial.m](./Partial.m)复现论文[Kalman Filtering with Partial Observation Losses.pdf](./Kalman%20Filtering%20with%20Partial%20Observation%20Losses.pdf)
 
