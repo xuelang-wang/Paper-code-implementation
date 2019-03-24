@@ -4,9 +4,9 @@
 
 **有错欢迎指出，能够提供正确或校正版本更好**
 
-**Notice: toolbox_users 包含必备的工具箱**
+**Notice:** `toolbox_users`包含必备的工具箱
 
-**另附外国论文下载神器**`sci-hub`[访问地址更新请转]（http://tool.yovisun.com/scihub/）
+**另附外国论文下载神器:**`sci-hub`[访问地址更新请转]（http://tool.yovisun.com/scihub/）
 
 ## 目前复现的论文
 [1] B. Sinopoli, et. al. Kalman Filtering with Intermittent Observations, Proc. IEEE Conf. on Decision and Control, pp. 701-708, Dec. 2003.\[[paper](./Kalman%20Filtering/Kalman_filtering_with_intermittent_observations.pdf)\]\[[code](./Kalman%20Filtering/intermittent_A.m)\]
