@@ -1,3 +1,5 @@
+## 注意： 运行该目录下*.m文件，matlab需要安装第三方工具mpt3(见..\toolbox_users\tbxmanager)
+
 [RMCP_LMI_polytope.m](RMCP_LMI_polytope.m)复现论文[Robust_Constrained_Model_Predictive_Control_using_Linear_Matrix_Inequalities.pdf](Robust_Constrained_Model_Predictive_Control_using_Linear_Matrix_Inequalities.pdf)
 
 [benchmark_problems_polytope.m](benchmark_problems_polytope.m)复现论文[benchmark_problems.pdf](benchmark_problems.pdf)
